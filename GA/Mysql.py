@@ -1,0 +1,5 @@
+h='127.0.0.1'
+u='root'
+pas='Sid@123456'
+po='3306'
+dat='gaming_applications'
